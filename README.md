@@ -1,5 +1,5 @@
 # Micah Johnson  
-**Product & Engineering Hacker | 0-1 Builder | ***
+Product & Engineering Hacker | 0-1 Builder |
 
 I'm somewhere between a product manager and an AI engineer—basically your go-to 0-1 hacker who loves turning big ideas into tangible products. My journey blends philosophy, theology, and a dash of interdisciplinary studies, so I'm all about spotting hidden connections and shaping them into real-world solutions (and yes, sometimes that involves shipping revenue-generating features overnight).
 
